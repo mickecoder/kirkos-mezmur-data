@@ -1,0 +1,32 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Special Assembly / ልዩ ስብሰባ",
+      "description": "የእሁድ ጸሎት፣ የመዝሙር አገልግሎት እና የቃል ትምህርት። ሁላችሁም እንድትገኙ በክብር ተጋብዛችኋል።",
+      "location": "",
+      "recurrence": "weekly",
+      "days": ["Sunday"],
+      "startTime": "04:30",
+      "endTime": "07:00",
+      "startDate": null,
+      "endDate": null,
+      "timezone": "Africa/Addis_Ababa",
+      "active": true
+    },
+    {
+      "id": 2,
+      "title": "የጥምቀት በዓል ፕሮግራም",
+      "description": "በጥምቀት በዓል ምክንያት የተዘጋጀ ልዩ የመዝሙር እና የጸሎት ፕሮግራም። ናሙና ነው — እንደ አስፈላጊነቱ ያስተካክሉት።",
+      "location": "",
+      "recurrence": "oneoff",
+      "days": [],
+      "startTime": "08:00",
+      "endTime": "20:00",
+      "startDate": "2027-01-19",
+      "endDate": "2027-01-19",
+      "timezone": "Africa/Addis_Ababa",
+      "active": true
+    }
+  ]
+}
