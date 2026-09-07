@@ -2,9 +2,9 @@
   "events": [
     {
       "id": 1,
-      "title": "Special Assembly / ልዩ ስብሰባ",
+      "title": "የአዲስ አመት ልዩ ጉባኤ",
       "description": "የእሁድ ጸሎት፣ የመዝሙር አገልግሎት እና የቃል ትምህርት። ሁላችሁም እንድትገኙ በክብር ተጋብዛችኋል።",
-      "location": "",
+      "location": "በሰንበት ትምህርት ቤቱ አዳራሽ ",
       "recurrence": "weekly",
       "days": ["Sunday"],
       "startTime": "04:30",
